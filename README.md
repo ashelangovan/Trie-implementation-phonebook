@@ -5,6 +5,7 @@ for faster access. Also, I have also implemented a prediction algorithm which pr
  linux to obtain the input before pressing enter.
 
  The syntax for the query is as follows
+ 
  	1. insert //inserts a contact
  	2. search/delete phonebook over name/number like <name/number> //here, '_' can be inserted if the user forgot 
  				// the character and all possible values will be returned
