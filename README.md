@@ -7,8 +7,7 @@ for faster access. Also, I have also implemented a prediction algorithm which pr
 
  The syntax for the query is as follows
  	1. insert //inserts a contact
-  
- 	2. search/delete phonebook over name/number like <name/number> //here, '_' can be inserted if the user forgot 
+  2. search/delete phonebook over name/number like <name/number> //here, '_' can be inserted if the user forgot 
  				// the character and all possible values will be returned
  	3. search/delete phonebook over name/number dynn // dynamically predicts the name/number which is to be 
  				//entered before entering it
